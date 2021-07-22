@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TodoNote</string>
+    <string name="addnotes">addNotes</string>
+    <string name="logout">logout</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="save">save</string>
+    <string name="todo_notes">ToDo Notes</string>
+    <string name="login_register">Login / Register</string>
+    <string name="profile">profile</string>
+    <string name="logout_d">Logout</string>
+    <string name="do_you_really_want_to_exit">Do you really want to exit ?</string>
+    <string name="history">Search</string>
+
+    <string-array name="month">
+        <item id="0">All</item>
+        <item id="1">January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
